@@ -1,3 +1,5 @@
  Ini Belajar Git
 
 #Buah-buahan
+1. Apel
+2. Jeruk
